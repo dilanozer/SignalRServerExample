@@ -27,3 +27,4 @@
 /Users/dilanozer/Projects/SignalRServerExample/SignalRServerExample/obj/Debug/net7.0/SignalRServerExample.genruntimeconfig.cache
 /Users/dilanozer/Projects/SignalRServerExample/SignalRServerExample/obj/Debug/net7.0/ref/SignalRServerExample.dll
 /Users/dilanozer/Projects/SignalRServerExample/SignalRServerExample/obj/Debug/net7.0/SignalRS.FABD0A38.Up2Date
+/Users/dilanozer/Projects/SignalRServerExample/SignalRServerExample/obj/Debug/net7.0/SignalRServerExample.sourcelink.json
