@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{78A5D442-300B-405F-B133-3DDF8F1AEE6F}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignalRServerExample/Hubs/MyHub.cs">
+    <Files>
+      <File FileName="SignalRServerExample/Hubs/MyHub.cs" Line="11" Column="29" />
+      <File FileName="SignalRServerExample/Program.cs" Line="19" Column="1" />
+      <File FileName="SignalRServerExample/appsettings.json" />
+      <File FileName="SignalRServerExample/appsettings.Development.json" />
+      <File FileName="SignalRServerExample/Properties/launchSettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignalRServerExample" expanded="True">
+            <Node name="SignalRServerExample">
+              <Node name="Hubs" expanded="True">
+                <Node name="MyHub.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SignalRServerExample PreferredExecutionTarget="/Applications/Opera.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
