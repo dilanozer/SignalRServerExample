@@ -20,6 +20,7 @@ var app = builder.Build();
 app.UseCors();
 app.UseRouting();
 app.MapHub<MyHub>("/myhub");
+app.MapHub<MessageHub>("/messagehub");
 app.MapControllers();
 
 app.Run();
